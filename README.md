@@ -27,7 +27,7 @@ sudo apt install wine
 
 **🚀 Installation & Usage**
 
-Download the [Release] (https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases/tag/Release)
+Download the [Release](https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases/tag/Release)
 
 Then use the cd Command in the Terminal where you saved it
 cd /home/User/where you saved it
