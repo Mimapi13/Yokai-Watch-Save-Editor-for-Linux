@@ -61,6 +61,9 @@ The editor runs via Wine, so minor adjustments might be necessary depending on y
 Pull requests and issues are welcome!
 If you find bugs or want to suggest features, open an issue.
 
+
+
+
 Windows [Version](https://github.com/3dshackstimemachine/yo-kai-editors/releases) (not from me)
 
 
