@@ -30,5 +30,6 @@ for YkwB1:./run-yokaibusters1.sh
 
 Then a Window like This :
 <img width="742" height="627" alt="image" src="https://github.com/user-attachments/assets/e72b9669-438d-4c14-ba38-35d3f60937ea" />
+
 should Pop up after some seconds
 
