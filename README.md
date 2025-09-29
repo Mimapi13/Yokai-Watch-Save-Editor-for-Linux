@@ -38,5 +38,5 @@ should Pop up after some second
 
 
 
-Credits To @togenyan
+**Special Thanks To:** [@togenyan](https://github.com/togenyan)
 
