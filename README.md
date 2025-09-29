@@ -1,40 +1,65 @@
 # Yokai-Watch-Save-Editor-for-Linux
 
 
-**Features**
+Yokai Watch Save Editor for Linux
 
-Compatible with Wine for easy execution.
+A simple save editor for the Yokai Watch series on Linux. Using Wine, you can edit your game saves without needing Windows.
 
-Requirements:
+🛠️ Supported Games
+
+Yokai Watch 1
+
+Yokai Watch 2
+
+Yokai Watch 3
+
+Yokai Watch Busters 1
+
+Yokai Watch Busters 2
+
+📦 Requirements
 
 Linux operating system
 
-Wine installed (e.g., sudo apt install wine)
+Wine installed:
 
-**How to Use**
+sudo apt install wine
 
-**1.Download the latest Release**:https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases
+🚀 Installation & Usage
 
-**2.Go to your location where you saved The Editor**
-cd /home/Username/Where you saved it/
-Username:Your Username
+Download the [Release] (https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases/tag/Release)
 
-**3. Run The Skript with:**
-./run-yokaixx.sh
-xx= depends on the Save Editor 
-for Ykw1 :./run-yokai1.sh
-for Ykw2:./run-yokai2.sh
-for Ykw3:./run-yokai3.sh
-for YkwB1:./run-yokaibusters1.sh
-for YkwB1:./run-yokaibusters1.sh
-
-Then a Window like This :
-
-<img width="742" height="627" alt="image" src="https://github.com/user-attachments/assets/e72b9669-438d-4c14-ba38-35d3f60937ea" />
-
-should Pop up after some second
+Then use the cd Command in the Terminal where you saved it
+cd /home/User/where you saved it
 
 
+Run the editor:
+There are scripts for each game. Run the appropriate one:
+
+./run-yokai1.sh       # Yokai Watch 1
+./run-yokai2.sh       # Yokai Watch 2
+./run-yokai3.sh       # Yokai Watch 3
+./run-yokaibusters1.sh # Yokai Watch Busters 1
+./run-yokaibusters2.sh # Yokai Watch Busters 2
+
+
+Select and edit your save file
+After launching, the editor window will open. Make changes and save your file.
+
+🖼️ Screenshots
+<img width="742" height="627" alt="image" src="https://github.com/user-attachments/assets/8ea019e9-ed4a-4b8d-b925-dcfd0d5a6058" />
+
+
+⚠️ Notes
+
+Always backup your save files before editing.
+
+The editor runs via Wine, so minor adjustments might be necessary depending on your Linux distribution.
+
+💡 Contributing
+
+Pull requests and issues are welcome!
+If you find bugs or want to suggest features, open an issue.
 
 
 
