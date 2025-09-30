@@ -27,8 +27,7 @@ Wine installed
 
 Download the [Release](https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases/tag/Release)
 
-Then use the cd Command in the Terminal where you saved it
-cd /home/User/where you saved it
+Then use the cd Command in the Terminal where ypu saved it or make rightclick in the Directory ans choose Open in Terminal
 
 
 Run the editor:
