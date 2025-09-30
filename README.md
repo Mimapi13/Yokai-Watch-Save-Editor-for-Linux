@@ -21,9 +21,7 @@ Yokai Watch Busters 2
 
 Linux operating system
 
-Wine installed:
-
-sudo apt install wine
+Wine installed
 
 **🚀 Installation & Usage**
 
