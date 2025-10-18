@@ -19,7 +19,6 @@ Using **Wine**, you can edit your game saves without needing Windows.
 
 - A Linux operating system  
 - Wine installed and working properly  
-- (Optional) Python 3 and PyQt5 for native execution  
 
 ---
 
