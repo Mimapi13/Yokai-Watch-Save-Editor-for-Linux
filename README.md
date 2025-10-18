@@ -99,7 +99,7 @@ If you find bugs or want to suggest features, feel free to [open an issue](https
 ## 💡 Related Projects
 
 - **Windows version:** [Yo-kai Editors by @3dshackstimemachine](https://github.com/3dshackstimemachine/yo-kai-editors)  
-- **Special thanks to:** [@togenyan](https://github.com/togenyan) (wh omade the original fow windows)
+- **Special thanks to:** [@togenyan](https://github.com/togenyan) (who made the original fow windows)
 
 ---
 
