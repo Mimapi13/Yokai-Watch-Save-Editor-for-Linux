@@ -1,69 +1,107 @@
-# Yokai-Watch-Save-Editor-for-Linux
+# 🧿 Yokai Watch Save Editor for Linux
 
+A simple and lightweight save editor for the **Yokai Watch** series, fully working on **Linux**.  
+Using **Wine**, you can edit your game saves without needing Windows.
 
-Yokai Watch Save Editor for Linux
+---
 
-A simple save editor for the Yokai Watch series on Linux. Using Wine, you can edit your game saves without needing Windows.
+## 🕹️ Supported Games
 
-**🛠️ Supported Games**
+- Yokai Watch 1  
+- Yokai Watch 2  
+- Yokai Watch 3  
+- Yokai Watch Busters 1  
+- Yokai Watch Busters 2  
 
-Yokai Watch 1
+---
 
-Yokai Watch 2
+## 📦 Requirements
 
-Yokai Watch 3
+- A Linux operating system  
+- Wine installed and working properly  
+- (Optional) Python 3 and PyQt5 for native execution  
 
-Yokai Watch Busters 1
+---
 
-Yokai Watch Busters 2
+## 🚀 Installation & Usage
 
-**📦 Requirements**
+### 1️⃣ Download
+Grab the latest version from the [📥 Release Page](https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases/tag/Release)
 
-Linux operating system
+### 2️⃣ Open Terminal
+Open a terminal in the folder where you downloaded the editor, or navigate there manually:
 
-Wine installed
+```bash
+cd ~/Downloads/Yokai-Watch-Save-Editor-for-Linux
+```
 
-**🚀 Installation & Usage**
+### 3️⃣ Run the Editor
 
-Download the [Release](https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/releases/tag/Release)
+Each game has its own start script.  
+Click the **📋 Copy** icon next to the command you need and paste it into your terminal:
 
-Then use the cd Command in the Terminal where ypu saved it or make rightclick in the Directory ans choose Open in Terminal
+#### 🧩 Yokai Watch 1
+```bash
+./run-yokai1.sh
+```
 
+#### 👻 Yokai Watch 2
+```bash
+./run-yokai2.sh
+```
 
-Run the editor:
-There are scripts for each game. Run the appropriate one:
+#### 🦊 Yokai Watch 3
+```bash
+./run-yokai3.sh
+```
 
-./run-yokai1.sh       # Yokai Watch 1
-./run-yokai2.sh       # Yokai Watch 2
-./run-yokai3.sh       # Yokai Watch 3
-./run-yokaibusters1.sh # Yokai Watch Busters 1
-./run-yokaibusters2.sh # Yokai Watch Busters 2
+#### 💥 Yokai Watch Busters 1
+```bash
+./run-yokaibusters1.sh
+```
 
+#### 🔥 Yokai Watch Busters 2
+```bash
+./run-yokaibusters2.sh
+```
 
-Select and edit your save file
-After launching, the editor window will open. Make changes and save your file.
+---
 
-**🖼️ Screenshots**
-<img width="742" height="627" alt="image" src="https://github.com/user-attachments/assets/8ea019e9-ed4a-4b8d-b925-dcfd0d5a6058" />
+## 💾 Editing Saves
 
+After launching, the editor window will appear.  
+You can:
+- Open and modify your save file  
+- Change items, Yo-kai, and inventory  
+- Save your edited file and import it back into the game  
 
-**⚠️ Notes**
+---
 
-Always backup your save files before editing.
+## 🖼️ Screenshots
+<img width="742" height="627" alt="Yokai Watch Save Editor Screenshot" src="https://github.com/user-attachments/assets/8ea019e9-ed4a-4b8d-b925-dcfd0d5a6058" />
 
-The editor runs via Wine, so minor adjustments might be necessary depending on your Linux distribution.
+---
 
-**💡 Contributing**
+## ⚠️ Notes
 
-Pull requests and issues are welcome!
-If you find bugs or want to suggest features, open an issue.
+- Always **backup your save files** before editing.  
+- The editor runs via Wine, so minor adjustments might be needed depending on your Linux distribution.
 
+---
 
+## 🤝 Contributing
 
+Pull requests and issues are welcome!  
+If you find bugs or want to suggest features, feel free to [open an issue](https://github.com/Mimapi13/Yokai-Watch-Save-Editor-for-Linux/issues).
 
-**Windows [Version](https://github.com/3dshackstimemachine/yo-kai-editors/releases)**(not from me)
+---
 
+## 💡 Related Projects
 
+- **Windows version:** [Yo-kai Editors by @3dshackstimemachine](https://github.com/3dshackstimemachine/yo-kai-editors)  
+- **Special thanks to:** [@togenyan](https://github.com/togenyan) (wh omade the original fow windows)
 
-**Special Thanks To:** [@togenyan](https://github.com/togenyan)
+---
 
+⭐ **If you like this project, give it a star!**  
+It helps others discover the tool and keeps development going 🚀
