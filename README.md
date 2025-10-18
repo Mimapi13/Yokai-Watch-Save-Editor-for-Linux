@@ -1,4 +1,4 @@
-# 🧿 Yokai Watch Save Editor for Linux
+#  Yokai Watch Save Editor for Linux
 
 A simple and lightweight save editor for the **Yokai Watch** series, fully working on **Linux**.  
 Using **Wine**, you can edit your game saves without needing Windows.
